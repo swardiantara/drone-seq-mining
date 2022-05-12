@@ -1,0 +1,390 @@
+﻿dataset,date,time,sequence_id,message,element_id,event_id
+df010,6/29/2017,14:52:06,2,Taking Off,4,e1
+df010,6/29/2017,14:52:08,2,Taking Off,4,e1
+df010,6/29/2017,14:52:09,2,Home Point Recorded. RTH Altitude:  30m.,4,e2
+df010,6/29/2017,15:02:26,2,Obstacle Avoided. Revise Flight Route,4,e12
+df010,6/29/2017,15:24:31,1,Taking Off,1,e1
+df010,6/29/2017,15:24:31,1,Taking Off,1,e1
+df010,6/29/2017,15:24:32,1,Taking Off,1,e1
+df010,6/29/2017,15:24:32,1,Taking Off,1,e1
+df010,6/29/2017,15:24:32,1,Home Point Recorded. RTH Altitude: 30m.,1,e2
+df010,6/29/2017,15:24:32,1,Home Point Recorded. RTH Altitude: 30m.,1,e2
+df010,6/29/2017,15:25:15,1,Camera Settings Adjusted to ActiveTrack,2,e4
+df010,6/29/2017,15:25:19,1,Your palm is too far away from the aircraft. Please step closer.,2,e5
+df010,6/29/2017,15:25:28,1,Your palm is too far away from the aircraft. Please step closer.,2,e5
+df010,6/29/2017,15:25:29,1,Your palm is too close to the aircraft. Please step farther away.,2,e6
+df010,6/29/2017,15:25:33,1,Palm Control in Process,2,e7
+df010,6/29/2017,15:25:33,1,Palm Control in Process,2,e7
+df010,6/29/2017,15:25:55,1,Your palm is too close to the aircraft. Please step farther away.,2,e6
+df010,6/29/2017,15:26:00,1,Your palm is too far away from the aircraft. Please step closer.,2,e5
+df010,6/29/2017,15:26:05,1,Your palm is too close to the aircraft. Please step farther away.,2,e6
+df010,6/29/2017,15:26:10,1,Palm Control in Process,2,e7
+df010,6/29/2017,15:26:10,1,Palm Control in Process,2,e7
+df010,6/29/2017,15:26:27,1,Palm Control in Process,2,e7
+df010,6/29/2017,15:26:27,1,Palm Control in Process,2,e7
+df010,6/29/2017,15:26:43,1,Camera Settings Adjusted to ActiveTrack,2,e4
+df010,6/29/2017,15:26:43,1,Drag a box around or tap a target on screen. Then tap Go.,2,e8
+df010,6/29/2017,15:26:52,1,Camera Settings Adjusted to ActiveTrack,2,e4
+df010,6/29/2017,15:26:52,1,Drag a box around or tap a target on screen. Then tap Go.,2,e8
+df010,6/29/2017,15:26:53,1,Cannot Identify Subject,2,e9
+df010,6/29/2017,15:31:54,1,Taking Off,3,e1
+df010,6/29/2017,15:31:54,1,Taking Off,3,e1
+df010,6/29/2017,15:31:54,1,Compass Interference. Temp Max Altitude: 98ft,3,e10
+df010,6/29/2017,15:31:56,1,Taking Off,3,e1
+df010,6/29/2017,15:31:56,1,Taking Off,3,e1
+df010,6/29/2017,15:32:24,1,Taking Off,3,e1
+df010,6/29/2017,15:32:24,1,Taking Off,3,e1
+df010,6/29/2017,15:32:26,1,Taking Off,3,e1
+df010,6/29/2017,15:32:26,1,Taking Off,3,e1
+df010,6/29/2017,15:32:28,1,Home Point Recorded. RTH Altitude:  30m.,3,e2
+df010,6/29/2017,15:32:28,1,Home Point Recorded. RTH Altitude: 30m.,3,e2
+df010,6/29/2017,15:33:43,1,Obstacle Avoidance will be disabled in landing.,3,e11
+df011,8/3/2017,13:52:28,3,Landing Gear Raising,5,e13
+df011,8/3/2017,13:52:34,3,Landing Gear Raised,5,e14
+df011,8/3/2017,13:57:17,3,Command Timeout,6,e17
+df011,8/3/2017,14:01:27,3,Low Power. Aircraft is returning to the Home Point.,7,e18
+df011,8/3/2017,14:02:28,3,Low Power. Aircraft is returning to the Home Point.,7,e18
+df011,8/3/2017,14:02:28,3,Landing Gear Lowering,7,e15
+df011,8/3/2017,14:02:35,3,Landing Gear Lowered,7,e16
+df019,8/29/2017,11:49:33,4,Taking Off,8,e1
+df019,8/29/2017,11:49:34,4,Taking Off,8,e1
+df019,8/29/2017,11:49:35,4,Home Point Recorded. RTH Altitude: 30m.,8,e2
+df019,8/29/2017,11:49:52,4,Landing,8,e36
+df019,8/29/2017,11:49:52,4,Obstacle Avoidance will be disabled in landing.,8,e11
+df019,8/29/2017,11:50:08,4,Ground Plain. Safe to Land.,8,e23
+df019,8/29/2017,11:50:40,4,Taking Off,8,e1
+df019,8/29/2017,11:50:41,4,Taking Off,8,e1
+df019,8/29/2017,11:50:43,4,Home Point Recorded. RTH Altitude: 30m.,8,e2
+df019,8/29/2017,11:53:00,4,Aircraft is returning to the Home Point. Minimum RTH Altitude is 98ft. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH.,9,e21
+df019,8/29/2017,11:53:27,4,Obstacle Avoidance will be disabled in landing.,9,e11
+df019,8/29/2017,11:53:56,4,Locating Landing Point,9,e37
+df019,8/29/2017,11:54:08,4,Landing Canceled,9,e35
+df019,8/29/2017,11:54:26,4,Forward Obstacle Sensing not Responding,9,e38
+df019,8/29/2017,11:54:50,4,Obstacle Avoidance will be disabled in landing.,9,e11
+df019,8/29/2017,11:56:11,4,Taking Off,10,e1
+df019,8/29/2017,11:56:12,4,Taking Off,10,e1
+df019,8/29/2017,11:56:13,4,Home Point Recorded. RTH Altitude: 30m.,10,e2
+df019,8/29/2017,11:56:13,4,Tap the screen lightly to focus.,10,e39
+df019,8/29/2017,11:56:45,4,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,10,e30
+df019,8/29/2017,11:57:29,4,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,10,e30
+df019,8/29/2017,11:58:00,4,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,10,e30
+df019,8/29/2017,11:59:07,4,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,10,e30
+df019,8/29/2017,11:59:20,4,Landing,10,e36
+df019,8/29/2017,11:59:20,4,Obstacle Avoidance will be disabled in landing.,10,e11
+df019,8/29/2017,11:59:34,4,Landing Canceled,10,e35
+df019,8/29/2017,11:59:35,4,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,10,e30
+df019,8/29/2017,12:02:05,4,Obstacle Avoidance will be disabled in landing.,10,e11
+df020,8/29/2017,12:21:48,5,Taking Off,11,e1
+df020,8/29/2017,12:21:49,5,Taking Off,11,e1
+df020,8/29/2017,12:21:50,5,Home Point Recorded. RTH Altitude: 30m.,11,e2
+df020,8/29/2017,12:21:53,5,Tap the screen lightly to focus.,11,e39
+df020,8/29/2017,12:23:12,5,In Flight,12,e29
+df020,8/29/2017,12:26:01,5,In Flight,12,e29
+df020,8/29/2017,12:26:05,5,Compass Redundancy Switch,12,e40
+df020,8/29/2017,12:27:08,5,Tap the screen lightly to focus.,12,e39
+df020,8/29/2017,12:27:19,5,Tap the screen lightly to focus.,12,e39
+df020,8/29/2017,12:27:38,5,Aircraft is returning to the Home Point. Minimum RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH.,12,e21
+df020,8/29/2017,12:28:39,5,Obstacle Avoidance will be disabled in landing.,12,e11
+df020,8/29/2017,12:29:00,5,Locating Landing Point,12,e37
+df020,8/29/2017,12:29:15,5,Ground Plain. Safe to Land.,12,e23
+df021,8/29/2017,12:44:40,6,Taking Off,13,e1
+df021,8/29/2017,12:44:42,6,Taking Off,13,e1
+df021,8/29/2017,12:44:43,6,Home Point Recorded. RTH Altitude: 30m.,13,e2
+df021,8/29/2017,12:47:35,6,Tap the screen lightly to focus.,13,e39
+df021,8/29/2017,12:57:30,6,Obstacle Avoided. Revise Flight Route,13,e12
+df021,8/29/2017,12:57:52,6,Obstacle Avoidance will be disabled in landing.,13,e11
+df025,8/29/2017,13:07:28,7,Home Point Recorded. RTH Altitude: 30m.,14,e2
+df025,8/29/2017,13:07:33,7,Landing gear lowered. Obstacle Avoidance Disabled.,14,e20
+df025,8/29/2017,13:08:57,7,Aircraft is returning to the Home Point. Minimum RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH.,14,e21
+df025,8/29/2017,13:09:29,7,Obstacle Avoidance will be disabled in landing.,14,e11
+df025,8/29/2017,13:09:30,7,Landing gear lowered. Obstacle Avoidance Disabled.,14,e20
+df025,8/29/2017,13:10:00,7,Landing Protection Activated. Aircraft will decelerate during landing.,14,e22
+df025,8/29/2017,13:10:06,7,Ground Plain. Safe to Land.,14,e23
+df025,8/29/2017,13:10:40,7,Taking Off,14,e1
+df025,8/29/2017,13:10:41,7,Taking Off,14,e1
+df025,8/29/2017,13:10:42,7,Home Point Recorded. RTH Altitude: 30m.,14,e2
+df025,8/29/2017,13:11:55,7,Fly with caution and ensure the aircraft remains within your line of sight.,15,e24
+df025,8/29/2017,13:12:21,7,Fly with caution and ensure the aircraft remains within your line of sight.,15,e24
+df025,8/29/2017,13:14:55,7,Image Transmission Recovered. Aircraft is returning home.,15,e25
+df025,8/29/2017,13:16:07,7,Obstacle Avoidance will be disabled in landing.,16,e11
+df025,8/29/2017,13:16:07,7,Landing gear lowered. Obstacle Avoidance Disabled.,16,e20
+df025,8/29/2017,13:16:39,7,Landing Protection Activated. Aircraft will decelerate during landing.,16,e22
+df025,8/29/2017,13:16:45,7,Ground Plain. Safe to Land.,16,e23
+df026,8/29/2017,13:30:41,8,Taking Off,17,e1
+df026,8/29/2017,13:30:43,8,Taking Off,17,e1
+df026,8/29/2017,13:30:44,8,Home Point Recorded. RTH Altitude: 30m.,17,e2
+df026,8/29/2017,13:30:48,8,Landing gear lowered. Obstacle Avoidance Disabled.,17,e20
+df026,8/29/2017,13:38:52,8,Current RTH route will pass a No-Fly zone. Pay attention to the aircraft's position to avoid RTH failure.,18,e26
+df026,8/29/2017,13:38:53,8,Compass Error. Exit P-GPS Mode,18,e27
+df026,8/29/2017,13:38:54,8,In Flight,18,e29
+df026,8/29/2017,13:41:19,8,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,19,e30
+df026,8/29/2017,13:44:09,8,The remaining battery is only enough for RTH. Return home now.,20,e31
+df026,8/29/2017,13:44:12,8,Low Power. Aircraft is returning to the Home Point.,20,e18
+df026,8/29/2017,13:44:27,8,Fly with caution and ensure the aircraft remains within your line of sight.,20,e24
+df026,8/29/2017,13:45:33,8,The remaining battery is only enough for RTH. Return home now.,20,e31
+df026,8/29/2017,13:45:41,8,Obstacle Avoidance will be disabled in landing.,20,e11
+df026,8/29/2017,13:45:41,8,Landing gear lowered. Obstacle Avoidance Disabled.,20,e20
+df026,8/29/2017,13:46:22,8,Landing Protection Activated. Aircraft will decelerate during landing.,20,e22
+df026,8/29/2017,13:46:28,8,Ground Plain. Safe to Land.,20,e23
+df027,8/29/2017,13:53:27,9,Taking Off,21,e1
+df027,8/29/2017,13:53:29,9,Taking Off,21,e1
+df027,8/29/2017,13:53:30,9,Home Point Recorded. RTH Altitude: 30m.,21,e2
+df027,8/29/2017,13:53:34,9,Landing gear lowered. Obstacle Avoidance Disabled.,21,e20
+df027,8/29/2017,13:56:54,9,Aircraft close to Home Point. \go home\ shifts to \landing\.,22,e34
+df027,8/29/2017,13:56:54,9,Obstacle Avoidance will be disabled in landing.,22,e11
+df027,8/29/2017,13:56:55,9,Landing gear lowered. Obstacle Avoidance Disabled.,22,e20
+df027,8/29/2017,13:57:04,9,Landing Protection Activated. Aircraft will decelerate during landing.,22,e22
+df027,8/29/2017,13:57:09,9,Landing Canceled,22,e35
+df027,8/29/2017,13:57:17,9,Aircraft close to Home Point. \go home\ shifts to \landing\.,22,e34
+df027,8/29/2017,13:57:17,9,Obstacle Avoidance will be disabled in landing.,22,e11
+df027,8/29/2017,13:57:17,9,Landing Protection Activated. Aircraft will decelerate during landing.,22,e22
+df027,8/29/2017,13:57:18,9,Landing gear lowered. Obstacle Avoidance Disabled.,22,e20
+df027,8/29/2017,13:57:44,9,Obstacle Avoidance will be disabled in landing.,22,e11
+df027,8/29/2017,13:57:44,9,Landing,22,e36
+df027,8/29/2017,13:57:44,9,Landing Protection Activated. Aircraft will decelerate during landing.,22,e22
+df027,8/29/2017,13:57:45,9,Landing gear lowered. Obstacle Avoidance Disabled.,22,e20
+df027,8/29/2017,13:57:50,9,Ground Plain. Safe to Land.,22,e23
+df027,8/29/2017,13:58:35,9,Taking Off,23,e1
+df027,8/29/2017,13:58:37,9,Taking Off,23,e1
+df027,8/29/2017,13:58:38,9,Home Point Recorded. RTH Altitude: 30m.,23,e2
+df027,8/29/2017,13:58:42,9,Landing gear lowered. Obstacle Avoidance Disabled.,23,e20
+df027,8/29/2017,13:59:59,9,Max Flight Altitude Reached. Adjust in Main Controller Settings if necessary,23,e32
+df027,8/29/2017,14:00:03,9,Subject too Small. Get Closer and retry,23,e33
+df027,8/29/2017,14:00:50,9,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,23,e30
+df027,8/29/2017,14:00:57,9,Aircraft is returning to the Home Point. Minimum RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH.,23,e21
+df027,8/29/2017,14:01:05,9,Max Flight Altitude Reached. Adjust in Main Controller Settings if necessary,23,e32
+df027,8/29/2017,14:01:25,9,Obstacle Avoidance will be disabled in landing.,23,e11
+df027,8/29/2017,14:01:25,9,Landing gear lowered. Obstacle Avoidance Disabled.,23,e20
+df027,8/29/2017,14:01:53,9,Landing Protection Activated. Aircraft will decelerate during landing.,23,e22
+df027,8/29/2017,14:01:59,9,Ground Plain. Safe to Land.,23,e23
+df048,4/19/2018,11:25:15,10,Home Point Recorded. RTH Altitude: 30m.,24,e2
+df048,4/19/2018,11:26:34,10,In Flight,24,e29
+df048,4/19/2018,11:26:34,10,In Flight,24,e29
+df048,4/19/2018,11:26:42,10,In Flight,24,e29
+df048,4/19/2018,11:26:44,10,In Flight,24,e29
+df048,4/19/2018,11:26:55,10,In Flight,24,e29
+df048,4/19/2018,11:26:55,10,In Flight,24,e29
+df048,4/19/2018,11:27:00,10,In Flight,24,e29
+df048,4/19/2018,11:27:47,10,Obstacle Avoidance will be disabled in landing.,24,e11
+df050,4/19/2018,13:17:26,11,Home Point Recorded. RTH Altitude: 30m.,25,e2
+df050,4/19/2018,13:18:48,11,Strong Interference to Aircraft. Signal interruption may be more likely. Fly with caution.,25,e43
+df050,4/19/2018,13:19:19,11,Strong Interference to Aircraft. Signal interruption may be more likely. Fly with caution.,25,e43
+df050,4/19/2018,13:20:23,11,Strong Interference to Aircraft. Signal interruption may be more likely. Fly with caution.,25,e43
+df050,4/19/2018,13:20:55,11,Strong Interference to Aircraft. Signal interruption may be more likely. Fly with caution.,25,e43
+df050,4/19/2018,13:21:39,11,Strong Interference to Aircraft. Signal interruption may be more likely. Fly with caution.,25,e43
+df050,4/19/2018,13:26:45,11,Fly with caution and ensure the aircraft remains within your line of sight.,26,e24
+df050,4/19/2018,13:27:21,11,The remaining battery is only enough for RTH. Return home now.,26,e31
+df050,4/19/2018,13:27:29,11,Obstacle Avoidance will be disabled in landing.,26,e11
+df050,4/19/2018,13:31:13,11,Home Point Recorded. RTH Altitude: 30m.,27,e2
+df050,4/19/2018,13:34:00,11,Home Point Recorded. RTH Altitude: 30m.,28,e2
+df050,4/19/2018,13:35:08,11,Fly with caution and ensure the aircraft remains within your line of sight.,28,e24
+df050,4/19/2018,13:35:09,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:35:09,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:35:16,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:35:26,11,Fly with caution and ensure the aircraft remains within your line of sight.,28,e24
+df050,4/19/2018,13:35:36,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:35:36,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:35:37,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:35:38,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:35:38,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:35:47,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:36:08,11,High wind velocity. Fly with caution and land in a safe place ASAP.,28,e45
+df050,4/19/2018,13:36:11,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:36:11,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:36:15,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:36:44,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:36:44,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:36:44,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:36:50,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:36:50,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:36:54,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:36:59,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:37:00,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:37:00,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:37:07,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:37:07,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:37:13,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:37:25,11,Fly with caution and ensure the aircraft remains within your line of sight.,28,e24
+df050,4/19/2018,13:38:15,11,Fly with caution and ensure the aircraft remains within your line of sight.,28,e24
+df050,4/19/2018,13:38:18,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:38:18,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:38:22,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:38:23,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:38:23,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:38:23,11,Attitude is too large.,28,e44
+df050,4/19/2018,13:39:52,11,Fly with caution and ensure the aircraft remains within your line of sight.,28,e24
+df050,4/19/2018,13:43:32,11,Fly with caution and ensure the aircraft remains within your line of sight.,29,e24
+df050,4/19/2018,13:45:19,11,Obstacle Avoidance will be disabled in landing.,29,e11
+df010,4/19/2018,17:39:47,14,Data Recorder File Index is 29.,33,e41
+df010,4/19/2018,17:39:47,14,Home Point Updated.,33,e42
+df010,4/19/2018,17:39:48,14,Taking Off.,33,e1
+df010,4/19/2018,17:40:33,14,Aircraft is returning to the Home Point. RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH if necessary.,33,e21
+df050,4/19/2018,6:46:28 PM,12,Data Recorder File Index is 12.,30,e41
+df050,4/19/2018,6:46:29 PM,12,Home Point Updated.,30,e42
+df050,4/19/2018,6:46:31 PM,12,Remote controller assisted takeoff initiated.,30,e48
+df050,4/19/2018,7:05:13 PM,13,Data Recorder File Index is 15.,31,e41
+df050,4/19/2018,7:05:14 PM,13,Remote controller assisted takeoff initiated.,31,e48
+df050,4/19/2018,7:05:30 PM,13,Data Recorder File Index is 15.,31,e41
+df050,4/19/2018,7:05:31 PM,13,Home Point Updated.,31,e42
+df050,4/19/2018,7:05:31 PM,13,Home Point recorded. Return-to-Home Altitude: 98FT.,31,e2
+df050,4/19/2018,7:05:33 PM,13,Remote controller assisted takeoff initiated.,31,e48
+df050,4/19/2018,7:06:41 PM,13,SD card write speed is too slow. Not suitable for shooting a 4K video.,31,e49
+df050,4/19/2018,7:06:51 PM,13,High wind velocity. Fly with caution.,31,e46
+df050,4/19/2018,7:08:32 PM,13,High wind velocity. Fly with caution.,32,e46
+df050,4/19/2018,7:08:48 PM,13,High wind velocity. Fly with caution.,32,e46
+df050,4/19/2018,7:09:27 PM,13,High wind velocity. Fly with caution.,32,e46
+df050,4/19/2018,7:09:59 PM,13,High wind velocity. Fly with caution.,32,e46
+df050,4/19/2018,7:11:09 PM,13,High wind velocity. Fly with caution.,32,e46
+df050,4/19/2018,7:12:00 PM,13,High wind velocity. Fly with caution.,32,e46
+df048,6/19/2018,12:26:01,15,Home Point Recorded. RTH Altitude: 30m.,34,e2
+df048,6/19/2018,12:29:40,15,Home Point Recorded. RTH Altitude: 30m.,34,e2
+df048,6/19/2018,12:31:10,15,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,34,e30
+df048,6/19/2018,12:32:41,15,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,34,e30
+df010,6/19/2018,17:16:08,16,Taking Off,35,e1
+df010,6/19/2018,17:20:10,16,Max Flight Altitude Reached. Adjust in Main Controller Settings if necessary,36,e32
+df010,6/19/2018,17:21:42,16,Compass Error. Exit P-GPS Mode,36,e27
+df010,6/19/2018,17:23:13,16,Landing,36,e36
+df048,6/19/2018,6:50:35 PM,17,Data Recorder File Index is 57.,37,e41
+df048,6/19/2018,6:50:37 PM,17,Home Point Updated.,37,e42
+df048,6/19/2018,6:52:06 PM,17,Maximum flight distance reached. Adjust the distance in MC Settings if required.,38,e50
+df048,6/19/2018,6:52:08 PM,17,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.,38,e51
+df048,6/19/2018,6:52:14 PM,17,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,38,e47
+df048,6/19/2018,6:53:51 PM,17,Maximum flight distance reached. Adjust the distance in MC Settings if required.,39,e50
+df048,6/19/2018,6:54:06 PM,17,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,39,e47
+df048,6/19/2018,6:55:32 PM,17,Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.,39,e52
+df020,6/19/2018,10:48:39 PM,18,Data Recorder File Index is 45.,40,e41
+df020,6/19/2018,10:48:41 PM,18,Home Point Updated.,40,e42
+df020,6/19/2018,10:49:58 PM,18,Tap the screen to focus.,40,e39
+df020,6/19/2018,10:52:39 PM,18,Downlink Lost.,41,e53
+df020,6/19/2018,10:55:23 PM,18,Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.,41,e52
+df027,6/20/2018,12:11:03 AM,19,Data Recorder File Index is 30.,42,e41
+df027,6/20/2018,12:11:05 AM,19,Home Point Updated.,42,e42
+df027,6/20/2018,12:11:05 AM,19,Obstacle Avoidance disabled. Landing gear lowered. Obstacle Avoidance has been disabled.,42,e55
+df027,6/20/2018,12:11:55 AM,19,Gimbal Pitch Limit Reached.,42,e56
+df027,6/20/2018,12:11:58 AM,19,GPS Position Mismatch.,42,e57
+df027,6/20/2018,12:13:50 AM,19,Gimbal Roll Limit Reached.,43,e58
+df027,6/20/2018,12:14:29 AM,19,Gimbal Pitch Limit Reached.,43,e56
+df027,6/20/2018,12:14:30 AM,19,Gimbal Pitch Limit Reached.,43,e56
+df027,6/20/2018,12:14:30 AM,19,Gimbal Pitch Limit Reached.,43,e56
+df027,6/20/2018,12:14:35 AM,19,Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.,43,e52
+df027,6/20/2018,12:14:35 AM,19,Landing Gear Lowering.,43,e15
+df027,6/20/2018,12:14:42 AM,19,Landing Gear Lowered.,43,e16
+df027b,6/20/2018,8:36:03,20,Home Point Recorded. RTH Altitude: 30m.,44,e2
+df027b,6/20/2018,8:36:08,20,Landing gear lowered. Obstacle Avoidance Disabled.,44,e20
+df027b,6/20/2018,8:40:12,20,Gimbal Pitch Reached Movement Limit,45,e56
+df027b,6/20/2018,8:40:26,20,Landing gear lowered. Obstacle Avoidance Disabled.,45,e20
+df034,6/20/2018,12:01:40,21,Fly with caution and ensure the aircraft remains within your line of sight.,46,e24
+df034,6/20/2018,12:01:49,21,Fly with caution and ensure the aircraft remains within your line of sight.,46,e24
+df034,6/20/2018,12:02:08,21,Fly with caution and ensure the aircraft remains within your line of sight.,46,e24
+df034,6/20/2018,12:03:20,21,Fly with caution and ensure the aircraft remains within your line of sight.,46,e24
+df034,6/20/2018,12:03:31,21,Fly with caution and ensure the aircraft remains within your line of sight.,46,e24
+df034,6/20/2018,12:04:56,21,Landing,46,e36
+df034,6/20/2018,4:11:45 PM,22,Data Recorder File Index is 65.,47,e41
+df034,6/20/2018,4:11:46 PM,22,Taking off.,47,e1
+df034,6/20/2018,4:11:47 PM,22,RTH Altitude: 65FT.,47,e59
+df034,6/20/2018,4:11:48 PM,22,Home Point Updated.,47,e42
+df034,6/20/2018,4:12:19 PM,22,"Cannot switch flight mode. Turn on ""Multiple Flight Modes"" to enable Atti and Sport Modes.",47,e60
+df034,6/20/2018,4:12:21 PM,22,"Cannot switch flight mode. Turn on ""Multiple Flight Modes"" to enable Atti and Sport Modes.",47,e60
+df034,6/20/2018,4:12:36 PM,22,GPS Position Mismatch.,47,e57
+df034,6/20/2018,4:12:50 PM,22,Large Wind Velocity.,47,e61
+df034,6/20/2018,4:13:02 PM,22,GPS Position Mismatch.,47,e57
+df034,6/20/2018,4:13:09 PM,22,Large Wind Velocity.,47,e61
+df034,6/20/2018,4:13:17 PM,22,Large Wind Velocity.,47,e61
+df034,6/20/2018,4:13:30 PM,22,GPS Position Mismatch.,47,e57
+df034,6/20/2018,4:14:58 PM,22,Large Wind Velocity.,47,e61
+df034,6/20/2018,4:16:45 PM,22,Landing.,47,e36
+df069,9/26/2018,11:18:15,23,Not Allowed to change Aircraft Mode. If needed,48,e64
+df069,9/26/2018,11:18:16,23,Not Allowed to change Aircraft Mode. If needed,48,e64
+df069,9/26/2018,11:18:18,23,Home Point Recorded. RTH Altitude: 30m.,48,e2
+df069,9/26/2018,11:18:26,23,Tap the screen lightly to focus.,48,e39
+df069,9/26/2018,11:21:09,23,Tap the screen lightly to focus.,48,e39
+df067,9/26/2018,11:57:41,24,Home Point Recorded. RTH Altitude: 30m.,49,e2
+df067,9/26/2018,11:57:44,24,Tap the screen lightly to focus.,49,e39
+df067,9/26/2018,12:00:19,24,Mobile device CPU fully loaded. Related performance will be affected.,49,e72
+df067,9/26/2018,12:01:10,24,Obstacle Avoided. Revise Flight Route,49,e12
+df067,9/26/2018,12:01:12,24,Attitude is too large.,49,e44
+df068,9/26/2018,12:36:59,25,Home Point Recorded. RTH Altitude: 30m.,50,e2
+df068,9/26/2018,12:39:31,25,Max Flight Altitude Reached. Adjust in Main Controller Settings if necessary,50,e32
+df068,9/26/2018,12:43:51,25,Home Point Recorded. RTH Altitude: 30m.,50,e2
+df068,9/26/2018,12:45:15,25,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,50,e30
+df067,9/26/2018,6:08:28 PM,26,Data Recorder File Index is 12.,51,e41
+df067,9/26/2018,6:08:35 PM,26,Home Point Updated.,51,e42
+df067,9/26/2018,6:08:35 PM,26,Home Point recorded. Return-to-Home Altitude: 98FT.,51,e2
+df067,9/26/2018,6:10:05 PM,26,Strong Remote Controller Interference.,52,e62
+df067,9/26/2018,6:10:11 PM,26,"Braking now. Return sticks to midpoints, then continue flying.",52,e63
+df067,9/26/2018,6:11:43 PM,26,Strong Remote Controller Interference.,52,e62
+df067,9/26/2018,6:12:15 PM,26,Strong Remote Controller Interference.,52,e62
+df067,9/26/2018,6:12:42 PM,26,Strong Remote Controller Interference.,52,e62
+df067,9/26/2018,6:16:14 PM,26,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.,53,e51
+df067,9/26/2018,6:16:48 PM,26,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.,53,e51
+df067,9/26/2018,6:21:44 PM,26,Strong Remote Controller Interference.,54,e62
+df080,11/20/2018,9:55:50 PM,27,Data Recorder File Index is 8.,55,e41
+df080,11/20/2018,9:55:55 PM,27,Home Point Updated.,55,e42
+df080,11/20/2018,9:55:55 PM,27,Home Point recorded. Return-to-Home Altitude: 98.4 ft.,55,e2
+df080,11/20/2018,10:01:22 PM,27,Data Recorder File Index is 9.,56,e41
+df080,11/20/2018,10:01:29 PM,27,Home Point Updated.,56,e42
+df080,11/20/2018,10:01:45 PM,27,GEO: You are in a Warning Zone (School). Fly with caution.,56,e65
+df080,11/20/2018,10:01:49 PM,27,"To take off in non-P mode, toggle Flight Mode Switch to another mode and then toggle it back.",56,e70
+df080,11/20/2018,10:03:26 PM,27,"Tip: Aircraft reached maximum distance, please pay attention to flight safety.",56,e71
+df080,11/20/2018,10:06:07 PM,27,GEO: You are in a Warning Zone (School). Fly with caution.; Compass abnormal Solution: 1. Ensure there are no magnets or metal objects near the aircraft. The ground or walls may contain metal. Move away from sources of interference before attempting flight. 2. Calibrate Compass Before Takeoff.,57,e65
+df080,11/20/2018,10:06:07 PM,27,Data Recorder File Index is 10.,57,e41
+df080,11/20/2018,10:06:13 PM,27,Home Point Updated.,57,e42
+df080,11/20/2018,10:06:14 PM,27,Switched to P (Positioning)-mode.,57,e66
+df080,11/20/2018,10:06:14 PM,27,Switched to T (Tripod)-mode.,57,e67
+df080,11/20/2018,10:06:14 PM,27,Switched to T (Tripod)-mode.,57,e67
+df080,11/20/2018,10:06:14 PM,27,Switched to S (Sport)-mode.,57,e68
+df080,11/20/2018,10:06:38 PM,27,"Another aircraft is nearby. Fly with caution. Another aircraft is too close, please descend to a safer altitude.",57,e69
+df080,11/20/2018,10:07:47 PM,27,"Another aircraft is nearby. Fly with caution. Another aircraft is dangerously close, please descend to a safer altitude.",57,e69
+df080,11/20/2018,10:08:40 PM,27,"Another aircraft is nearby. Fly with caution. Another aircraft is dangerously close, please descend to a safer altitude.",57,e69
+df081,11/20/2018,10:48:28 PM,28,Data Recorder File Index is 7.,58,e41
+df081,11/20/2018,10:48:29 PM,28,Compass abnormal Solution: 1. Ensure there are no magnets or metal objects near the aircraft. The ground or walls may contain metal. Move away from sources of interference before attempting flight. 2. Calibrate Compass Before Takeoff.,58,e65
+df081,11/20/2018,10:49:09 PM,28,Home Point Updated.,58,e42
+df081,11/20/2018,10:49:16 PM,28,GEO: You are in a Warning Zone (School). Fly with caution.,58,e65
+df081,11/20/2018,10:51:52 PM,28,Switched to S (Sport)-mode.,58,e68
+df081,11/20/2018,10:51:52 PM,28,Switched to P (Positioning)-mode.,58,e66
+df081,11/20/2018,10:51:54 PM,28,Switched to P (Positioning)-mode.,58,e66
+df081,11/20/2018,10:51:54 PM,28,Switched to T (Tripod)-mode.,58,e67
+df081,11/20/2018,10:52:03 PM,28,Switched to T (Tripod)-mode.,58,e67
+df081,11/20/2018,10:52:03 PM,28,Switched to P (Positioning)-mode.,58,e66
+df081,11/20/2018,10:54:11 PM,28,Data Recorder File Index is 8.,59,e41
+df081,11/20/2018,10:54:14 PM,28,Switched to S (Sport)-mode.,59,e68
+df081,11/20/2018,10:54:22 PM,28,Home Point Updated.,59,e42
+df081,11/20/2018,10:54:25 PM,28,Switched to S (Sport)-mode.,59,e68
+df081,11/20/2018,10:54:25 PM,28,Switched to P (Positioning)-mode.,59,e66
+df081,11/20/2018,10:54:26 PM,28,Switched to P (Positioning)-mode.,59,e66
+df081,11/20/2018,10:54:26 PM,28,Switched to S (Sport)-mode.,59,e68
+df081,11/20/2018,10:54:33 PM,28,GEO: You are in a Warning Zone (School). Fly with caution.,59,e65
+df081,11/20/2018,10:55:12 PM,28,"Tip: Aircraft reached maximum distance, please pay attention to flight safety.",59,e71
+df081,11/20/2018,10:57:52 PM,28,GEO: You are in a Warning Zone (School). Fly with caution.,60,e65
+df081,11/20/2018,10:57:53 PM,28,Data Recorder File Index is 9.,60,e41
+df081,11/20/2018,10:57:56 PM,28,Home Point Updated.,60,e42
+df081,11/20/2018,10:57:57 PM,28,"To take off in non-P mode, toggle Flight Mode Switch to another mode and then toggle it back.",60,e70
+df081,11/20/2018,10:59:00 PM,28,Switched to P (Positioning)-mode.,60,e66
+df081,11/20/2018,10:59:00 PM,28,Switched to P (Positioning)-mode.,60,e66
+df081,11/20/2018,10:59:00 PM,28,Switched to S (Sport)-mode.,60,e68
+df081,11/20/2018,10:59:36 PM,28,"Tip: Aircraft reached maximum distance, please pay attention to flight safety.",60,e71
+df082,11/20/2018,11:19:39 PM,29,Data Recorder File Index is 6.,61,e41
+df082,11/20/2018,11:19:41 PM,29,Compass abnormalSolution: 1. Ensure there are no magnets or metal objects near the aircraft. The ground or walls may contain metal. Move away from sources of interference before attempting flight. 2. Calibrate Compass Before Takeoff.,61,e65
+df082,11/20/2018,11:19:42 PM,29,Home Point Updated.,61,e42
+df082,11/20/2018,11:19:42 PM,29,Home Point recorded. Return-to-Home Altitude: 98.4 ft.,61,e2
+df082,11/20/2018,11:19:43 PM,29,Switched to P (Positioning)-mode.,61,e66
+df082,11/20/2018,11:19:44 PM,29,Switched to P (Positioning)-mode.,61,e66
+df082,11/20/2018,11:19:44 PM,29,Switched to S (Sport)-mode.,61,e68
+df082,11/20/2018,11:19:49 PM,29,GEO: You are in a Warning Zone (School). Fly with caution.,61,e65
+df082,11/20/2018,11:20:37 PM,29,Downlink Lost.,61,e53
+df082,11/20/2018,11:21:44 PM,29,Switched to S (Sport)-mode.,62,e68
+df082,11/20/2018,11:21:44 PM,29,Switched to P (Positioning)-mode.,62,e66
+df082,11/20/2018,11:23:29 PM,29,Data Recorder File Index is 7.,63,e41
+df082,11/20/2018,11:23:41 PM,29,Home Point Updated.,63,e42
+df082,11/20/2018,11:23:41 PM,29,Home Point recorded. Return-to-Home Altitude: 98.4 ft.,63,e2
+df082,11/20/2018,11:23:48 PM,29,Switched to S (Sport)-mode.,63,e68
+df082,11/20/2018,11:23:54 PM,29,GEO: You are in a Warning Zone (School). Fly with caution.,63,e65
+df082,11/20/2018,11:27:42 PM,29,Data Recorder File Index is 8.,64,e41
+df082,11/20/2018,11:27:44 PM,29,Home Point Updated.,64,e42
+df082,11/20/2018,11:27:46 PM,29,"To take off in non-P mode, toggle Flight Mode Switch to another mode and then toggle it back.",64,e70
+df082,11/20/2018,11:27:46 PM,29,Switched to P (Positioning)-mode.,64,e66
+df082,11/20/2018,11:27:47 PM,29,Switched to P (Positioning)-mode.,64,e66
+df082,11/20/2018,11:27:47 PM,29,Switched to S (Sport)-mode.,64,e68
+df082,11/20/2018,11:27:53 PM,29,GEO: You are in a Warning Zone (School). Fly with caution.,64,e65
+df082,11/20/2018,11:28:22 PM,29,"Tip: Aircraft reached maximum distance, please pay attention to flight safety.",64,e71
+df082,11/20/2018,11:29:04 PM,29,"Tip: Aircraft reached maximum distance, please pay attention to flight safety.",64,e71
