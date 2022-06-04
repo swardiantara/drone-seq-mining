@@ -1,0 +1,7 @@
+Number of distinct items: 68
+Largest item id: 72
+Average number of itemsets per sequence : 2.206896551724138 standard deviation: 1.1560727320165665 variance: 1.336504161712248
+Average number of distinct item per sequence : 6.379310344827586 standard deviation: 3.1776568368298688 variance: 10.097502972651608
+Average number of occurences in a sequence for each item appearing in a sequence : 2.1027027027027025 standard deviation: 2.598386868235704 variance: 6.751614317019749
+Average number of items per itemset : 6.078125 standard deviation: 5.400534370261428 variance: 29.165771484375
+68

@@ -1,0 +1,84 @@
+4 #SUP: 3
+5 #SUP: 3
+6 #SUP: 3
+7 #SUP: 6
+8 #SUP: 2
+9 #SUP: 1
+10 #SUP: 1
+12 #SUP: 3
+13 #SUP: 1
+14 #SUP: 1
+15 #SUP: 2
+16 #SUP: 2
+17 #SUP: 1
+18 #SUP: 3
+20 #SUP: 13
+21 #SUP: 5
+22 #SUP: 7
+23 #SUP: 7
+24 #SUP: 15
+25 #SUP: 1
+26 #SUP: 1
+27 #SUP: 2
+29 #SUP: 10
+30 #SUP: 10
+31 #SUP: 3
+32 #SUP: 4
+33 #SUP: 1
+34 #SUP: 2
+35 #SUP: 3
+36 #SUP: 6
+37 #SUP: 2
+38 #SUP: 1
+39 #SUP: 9
+40 #SUP: 1
+42 #SUP: 17
+43 #SUP: 5
+45 #SUP: 1
+46 #SUP: 7
+47 #SUP: 2
+48 #SUP: 3
+49 #SUP: 1
+50 #SUP: 2
+51 #SUP: 3
+52 #SUP: 3
+53 #SUP: 2
+55 #SUP: 1
+56 #SUP: 5
+57 #SUP: 4
+58 #SUP: 1
+59 #SUP: 1
+60 #SUP: 2
+61 #SUP: 4
+62 #SUP: 5
+63 #SUP: 1
+64 #SUP: 2
+65 #SUP: 10
+66 #SUP: 13
+67 #SUP: 4
+68 #SUP: 10
+69 #SUP: 3
+70 #SUP: 3
+71 #SUP: 5
+72 #SUP: 1
+-2 -1  #SUP: 0
+-2 1  #SUP: 0
+-2 2  #SUP: 0
+-2 11  #SUP: 0
+-2 41  #SUP: 0
+-2 44  #SUP: 0
+-1 1  #SUP: 0
+-1 2  #SUP: 0
+-1 11  #SUP: 0
+-1 41  #SUP: 0
+-1 44  #SUP: 0
+1 2  #SUP: 2
+1 11  #SUP: 1
+1 41  #SUP: 0
+1 44  #SUP: 0
+2 11  #SUP: 1
+2 41  #SUP: 0
+2 44  #SUP: 0
+11 41  #SUP: 0
+11 44  #SUP: 0
+41 44  #SUP: 0
